@@ -1,0 +1,39 @@
+body{
+	background-color:black;
+	margin: 0;
+}
+
+.layout{
+	width:80%;
+	margin: 0 auto;
+}
+
+.header{
+	height:300px;
+	background-color:white;
+}
+
+.menu{
+	background-color:#cccccc;
+	float:left;
+	width: 150px;
+	height:600px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration:none;
+}
+
+.content{
+	height:600px;
+	background-color:#999999;
+}
+
+.footer{
+	height:200px;
+	background-color:#333333;
+}
