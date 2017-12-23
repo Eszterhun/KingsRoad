@@ -51,4 +51,22 @@ a{
 
 h1{
 	text-align:center;
+	margin-top: 0;
+	padding: 10px;
+}
+
+p{
+	border-left: 10px;
+}
+
+#harcoskep{
+	margin-left: 100px;
+}
+
+#íjászkep{
+	margin-left: 100px;
+}
+
+#varázslókep{
+	margin-left: 100px;
 }
