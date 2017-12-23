@@ -59,12 +59,24 @@ h1{
 	margin-left: 100px;
 }
 
+#harcoskep:hover{
+	transform:scale(1.1,1.1);
+}
+
 #ijaszkep{
 	margin-left: 100px;
 }
 
+#ijaszkep:hover{
+	transform:scale(1.1,1.1);
+}
+
 #varazslokep{
 	margin-left: 100px;
+}
+
+#varazslokep:hover{
+	transform:scale(1.1,1.1);
 }
 	
 h2{
