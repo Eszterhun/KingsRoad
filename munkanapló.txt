@@ -1,2 +1,5 @@
 Sorszám	Munkafázis megnevezése	Tervezett idõ 	Ráfordított idõ 
-1. 	Témakeresés 		7 nap		
+1. 	Témakeresés 		7 nap		1 óra
+2.	Szerkezet kialakítása	30 perc		20 perc
+3.	Fejléc képkiválasztása	5 perc		5 perc
+4.	

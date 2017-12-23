@@ -11,6 +11,7 @@ body{
 .header{
 	height:300px;
 	background-color:white;
+	background-image:url(hatter2.jpg);
 }
 
 .menu{
@@ -29,6 +30,7 @@ a{
 }
 
 .content{
+	margin: 0 auto;
 	height:600px;
 	background-color:#999999;
 }
@@ -36,4 +38,14 @@ a{
 .footer{
 	height:200px;
 	background-color:#333333;
+}
+
+#nev{
+	float:right;
+	padding: 0px 5px 0px 5px;
+}
+
+#datum{
+	float:left;
+	padding: 0px 5px 0px 5px;
 }
