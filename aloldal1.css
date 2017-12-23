@@ -30,7 +30,6 @@ a{
 }
 
 .content{
-	margin: 0 auto;
 	height:600px;
 	background-color:#999999;
 }
@@ -48,4 +47,8 @@ a{
 #datum{
 	float:left;
 	padding: 0px 5px 0px 5px;
+}
+
+h1{
+	text-align:center;
 }
