@@ -1,0 +1,60 @@
+body{
+	background-color:black;
+	margin: 0;
+}
+
+.layout{
+	width:80%;
+	margin: 0 auto;
+}
+
+.header{
+	height:300px;
+	background-color:white;
+	background-image:url(hatter2.jpg);
+}
+
+.menu{
+	background-color:#cccccc;
+	float:left;
+	width: 150px;
+	height:1200px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration:none;
+}
+
+.content{
+	height:1200px;
+	background-color:#999999;
+}
+
+.footer{
+	height:70px;
+	background-color:#333333;
+}
+
+#nev{
+	float:right;
+	padding: 0px 5px 0px 5px;
+}
+
+#datum{
+	float:left;
+	padding: 0px 5px 0px 5px;
+}
+
+h1{
+	text-align:center;
+	margin-top: 0;
+	padding: 10px;
+}
+
+h2{
+	font-style: italic;
+}

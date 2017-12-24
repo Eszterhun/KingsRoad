@@ -18,7 +18,7 @@ body{
 	background-color:#cccccc;
 	float:left;
 	width: 150px;
-	height:1000px;
+	height:2000px;
 }
 
 ul{
@@ -30,7 +30,7 @@ a{
 }
 
 .content{
-	height:1000px;
+	height:2000px;
 	background-color:#999999;
 }
 
@@ -38,7 +38,6 @@ a{
 	height:70px;
 	background-color:#333333;
 }
-
 #nev{
 	float:right;
 	padding: 0px 5px 0px 5px;
@@ -55,33 +54,6 @@ h1{
 	padding: 10px;
 }
 
-#harcoskep{
-	margin-left: 100px;
-}
-
-#harcoskep:hover{
-	transform:scale(1.1,1.1);
-}
-
-#ijaszkep{
-	margin-left: 100px;
-}
-
-#ijaszkep:hover{
-	transform:scale(1.1,1.1);
-}
-
-#varazslokep{
-	margin-left: 100px;
-}
-
-#varazslokep:hover{
-	transform:scale(1.1,1.1);
-}
-	
 h2{
 	font-style: italic;
-	text-indent: 10px;
 }
-
-
