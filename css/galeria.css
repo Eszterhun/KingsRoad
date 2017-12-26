@@ -1,35 +1,36 @@
+body{
+	background-color:black;
+	margin: 0;
+}
+
 .layout{
+	width:80%;
 	margin: 0 auto;
-	width: 80%;
+}
+
+.header{
+	height:300px;
+	background-color:white;
+	background-image:url(hatter2.jpg);
+}
+
+.menu{
+	background-color:#cccccc;
+	float:left;
+	width: 150px;
+	height:3300px;
 }
 
 .content{
-	border: 0;
-	padding: 5px;
-	color: #000613;
-	text-align: justify;
-	margin: 0 auto;
-	margin-left:-40px;
-	-webkit-transform:translate(0px, 0px); 
-	-moz-transform:translate(0px, 0px); 
-	-ms-transform:translate(0px, 0px); 
-}
-
-a{
-	font-size:130%;
-	color: white;
-	width: 97.5%;
-	height: 22px;
-	padding-left: 600px;
-}
-img{
-	width: 100%;
+	height:3300px;
 }
 
 ul{
-	margin: 0 auto;
-	list-style-type:none;
-	float:left;
+	list-style-type: none;
+}
+
+a{
+	text-decoration:none;
 }
 
 body{
@@ -49,61 +50,100 @@ body{
 }
 
 .footer{
-	background-color: grey;
-	width: 100%;
-	color: #888;
-	text-align: center;
-	bottom: 0;
-	left: 0;
-	position: relative;
+	height:70px;
+	background-color:#333333;
 }
 
-#masodik:hover
-{
-	transform: translateX(150px);
+
+
+#terület{
+	width:auto;
+	height:auto;
+	float:left;
+	text-align:center;
+	margin-left: 20px;
+	margin-top: 20px;
 }
 
-#harmadik:hover
-{
-	transform: translateY(150px);
+#terület2{
+	width:auto;
+	height:auto;
+	float:right;
+	text-align:center;
+	margin-left: 20px;
+	margin-top: 20px;
 }
 
-#negyedik:hover
-{
-	transform: translate(-150px,100px);
+#kep{
+	width:350px;
+	height:400px;
+	margin:3px;
+	border:1px solid #fff;
 }
 
-#otodik:hover
-{
-	transform:scale(1.3);
+#felirat{
+	width:350px;
+	color: white;
 }
 
-#hatodik:hover
-{
-	transform:rotate(20deg);
+#kep2{
+	width:650px;
+	height:400px;
+	margin:3px;
+	border:1px solid #fff;
 }
 
-#hetedik:hover
-{
-	transform:skew(20deg, 30deg);
+#felirat2{
+	width:650px;
+	color: white;
 }
 
-#nyolcadik:hover
-{
-	transform:scale(0.5);
+#kep3{
+	width:500px;
+	height:500px;
+	margin:3px;
+	border:1px solid #fff;
 }
 
-#kilencedik:hover
-{
-	transform:rotateX(30deg);
+#felirat3{
+	width:500px;
+	color: white;
 }
 
-#tizedik:hover
-{
-	transform:rotateY(30deg);
+#kep4{
+	width:470px;
+	height:500px;
+	margin:3px;
+	border:1px solid #fff;
 }
 
-#tizenegyedik:hover
-{
-	transform:skewX(20deg);
+#felirat4{
+	width:470px;
+	color: white;
 }
+
+
+#kep5{
+	width:530px;
+	height:500px;
+	margin:3px;
+	border:1px solid #fff;
+}
+
+#felirat5{
+	width:530px;
+	color: white;
+}
+
+#kep6{
+	width:1035px;
+	height:500px;
+	margin:3px;
+	border:1px solid #fff;
+}
+
+#felirat6{
+	width:1035px;
+	color: white;
+}
+

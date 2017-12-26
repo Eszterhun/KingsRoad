@@ -18,7 +18,7 @@ body{
 	background-color:#cccccc;
 	float:left;
 	width: 150px;
-	height:940px;
+	height:1140px;
 }
 
 ul{
@@ -30,7 +30,7 @@ a{
 }
 
 .content{
-	height:940px;
+	height:1140px;
 	background-color:#999999;
 }
 
@@ -56,4 +56,15 @@ h1{
 
 h2{
 	font-style: italic;
+	margin-bottom: 2px;
+	margin-top: 5px;
+}
+
+img{
+	margin-left: 50px;
+}
+
+p{
+	margin-bottom: 25px;
+	margin-top: 0px;
 }
