@@ -20,6 +20,8 @@ body{
 	float:left;
 	width: 150px;
 	height:990px;
+	list-style-type: none;
+	padding: 0;
 }
 
 #szep ul{
@@ -53,7 +55,7 @@ body{
 	margin-left: 200px;
 }
 
-
+/*Tartalom*/
 .content{
 	height:990px;
 	background-color:#999999;
@@ -131,8 +133,11 @@ table td{
 
 /*kis képek*/
 
+#PvP{
+	text-align:center;
+}
 .kiskep {
-	margin-top: 50px;
+	margin-top: 20px;
 	margin-left: 10px;
 }
 

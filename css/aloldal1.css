@@ -115,6 +115,8 @@ h2{
 
 .kiskep:hover .nagykep {
     display: block;
+	margin-left: 140px;
+	margin-top: -250px;
 }
 
 .kiskep2 {
@@ -124,6 +126,8 @@ h2{
 
 .kiskep2:hover .nagykep {
     display: block;
+	margin-left: 140px;
+	margin-top: -250px;
 }
 
 .szoveg {
