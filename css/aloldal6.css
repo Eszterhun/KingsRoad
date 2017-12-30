@@ -24,6 +24,15 @@ body{
 	padding: 0;
 }
 
+#szep{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: #f1f1f1;
+    height: 170px;
+}
+
 #szep ul{
 	list-style-type: none;
     margin: 0;

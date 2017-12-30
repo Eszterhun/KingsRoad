@@ -18,7 +18,7 @@ body{
 	background-color:#cccccc;
 	float:left;
 	width: 150px;
-	height:600px;
+	height:950px;
 }
 
 ul {
@@ -48,7 +48,7 @@ li a:hover:not(.active) {
 }
 
 .content{
-	height:600px;
+	height:950px;
 	background-color:#999999;
 }
 
@@ -65,4 +65,21 @@ li a:hover:not(.active) {
 #datum{
 	float:left;
 	padding: 0px 5px 0px 5px;
+}
+
+p{
+	margin-top:0;
+	padding-top: 10px;
+}
+
+img{
+	width: 100px;
+    height: 70px;
+    -webkit-transition: width 2s; 
+    transition: width 2s;
+	margin-left: 350px;
+}
+
+img:hover {
+    width: 387px;
 }
