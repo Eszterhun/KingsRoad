@@ -10,7 +10,6 @@ body{
 
 .header{
 	height:300px;
-	background-color:white;
 	background-image:url(hatter2.jpg);
 }
 
@@ -18,7 +17,7 @@ body{
 	background-color:#cccccc;
 	float:left;
 	width: 150px;
-	height:1850px;
+	height:2000px;
 }
 
 ul {
@@ -48,23 +47,30 @@ li a:hover:not(.active) {
 }
 
 .content{
-	height:1850px;
+	height:2000px;
 	background-color:#999999;
+	text-align: justify;
+	font-size: 115%;
 }
 
 .footer{
-	height:70px;
+	margin-top: -20px;
+	height:50px;
 	background-color:#333333;
 }
 
 #nev{
 	float:right;
 	padding: 0px 5px 0px 5px;
+	margin-top:15px;
+	margin-bottom:0px;
 }
 
 #datum{
 	float:left;
 	padding: 0px 5px 0px 5px;
+	margin-top:15px;
+	margin-bottom:0px;
 }
 
 h1{
@@ -84,6 +90,11 @@ img{
 }
 
 p{
-	margin-bottom: 25px;
+	margin-bottom: 35px;
 	margin-top: 0px;
+}
+
+#tartalom{
+	margin-left: 170px;
+	margin-right: 20px;
 }

@@ -10,7 +10,6 @@ body{
 
 .header{
 	height:300px;
-	background-color:white;
 	background-image:url(hatter2.jpg);
 }
 
@@ -18,7 +17,7 @@ body{
 	background-color:#cccccc;
 	float:left;
 	width: 150px;
-	height:1200px;
+	height:1300px;
 }
 
 ul {
@@ -48,12 +47,14 @@ li a:hover:not(.active) {
 }
 
 .content{
-	height:1200px;
+	height:1300px;
 	background-color:#999999;
+	text-align: justify;
+	font-size: 115%;
 }
 
 .footer{
-	height:70px;
+	height:50px;
 	background-color:#333333;
 }
 
@@ -133,4 +134,9 @@ h2{
 .szoveg {
     padding: 10px;
 	text-align:center;
+}
+
+#tartalom{
+	margin-left: 170px;
+	margin-right: 20px;
 }

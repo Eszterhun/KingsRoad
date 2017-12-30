@@ -10,7 +10,6 @@ body{
 
 .header{
 	height:300px;
-	background-color:white;
 	background-image:url(hatter2.jpg);
 }
 
@@ -19,7 +18,7 @@ body{
 	background-color:#cccccc;
 	float:left;
 	width: 150px;
-	height:990px;
+	height:1250px;
 	list-style-type: none;
 	padding: 0;
 }
@@ -61,17 +60,19 @@ body{
 
 #lista{
 	list-style-type: disc;
-	margin-left: 200px;
+	margin-left: 100px;
 }
 
 /*Tartalom*/
 .content{
-	height:990px;
+	height:1250px;
 	background-color:#999999;
+	text-align: justify;
+	font-size: 115%;
 }
 
 .footer{
-	height:70px;
+	height:50px;
 	background-color:#333333;
 }
 
@@ -143,7 +144,9 @@ table td{
 /*kis képek*/
 
 #PvP{
+	margin-top: 50px;
 	text-align:center;
+	font-size: 115%;
 }
 .kiskep {
 	margin-top: 20px;
@@ -192,4 +195,9 @@ table td{
     display: block;
 	margin-left: 140px;
 	margin-top: -270px;
+}
+
+#tartalom{
+	margin-left: 170px;
+	margin-right: 20px;
 }
