@@ -14,7 +14,7 @@ body{
 }
 
 .menu{
-	background-color:#cccccc;
+	background-color:#C0C0C0;
 	float:left;
 	width: 150px;
 	height:170px;
@@ -30,7 +30,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 150px;
-    background-color: #f1f1f1;
+    background: linear-gradient(#F0E68C,#CD853F);
     height: 170px;
 }
 

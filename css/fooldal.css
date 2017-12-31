@@ -14,10 +14,11 @@ body{
 }
 
 .menu{
-	background-color:#cccccc;
+	background-color:#C0C0C0;
 	float:left;
 	width: 150px;
 	height:1120px;
+	font-weight: bold;
 }
 
 ul {
@@ -25,8 +26,8 @@ ul {
     margin: 0;
     padding: 0;
     width: 150px;
-    background-color: #f1f1f1;
     height: 170px;
+	background: linear-gradient(#F0E68C,#CD853F);
 }
 
 li a {
@@ -92,6 +93,7 @@ h1{
 	margin-top:0;
 	padding-top: 10px;
 	text-align:center;
+	text-shadow: 2px 2px;
 }
 
 p{
