@@ -5,8 +5,8 @@ Sorszám	Munkafázis megnevezése			Tervezett idõ 	Ráfordított idõ
 4.	Lábrész elkészítése			10 perc		15 perc
 4.	Menü elkészítése			10 perc		36 perc
 5. 	Osztályok oldal képei			30 perc		37 perc
-6. 	Karekter leírások			10 perc		19 perc
-7.	Szint, Promote Hero leírása		5 perc		11 perc
+6. 	Karekter leírások			10 perc		24 perc
+7.	Szint, Promote Hero leírása		5 perc		18 perc
 8.	Képességek oldal képei			10 perc		25 perc
 9.	Képességek oldal leírása		15 perc		12 perc
 10.	Harcos képességek oldal képei		20 perc		15 perc
@@ -24,4 +24,3 @@ Sorszám	Munkafázis megnevezése			Tervezett idõ 	Ráfordított idõ
 
 
 		
-Elkészítési idõ: 11,3 óra
