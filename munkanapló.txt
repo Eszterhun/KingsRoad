@@ -1,5 +1,27 @@
-Sorszám	Munkafázis megnevezése	Tervezett idõ 	Ráfordított idõ 
-1. 	Témakeresés 		7 nap		1 óra
-2.	Szerkezet kialakítása	30 perc		20 perc
-3.	Fejléc képkiválasztása	5 perc		5 perc
-4.	
+Sorszám	Munkafázis megnevezése			Tervezett idõ 	Ráfordított idõ 
+1. 	Témakeresés 				7 nap		1 óra
+2.	Szerkezet kialakítása			30 perc		20 perc
+3.	Fejléc képkiválasztása			5 perc		5 perc
+4.	Lábrész elkészítése			10 perc		15 perc
+4.	Menü elkészítése			10 perc		36 perc
+5. 	Osztályok oldal képei			30 perc		37 perc
+6. 	Karekter leírások			10 perc		19 perc
+7.	Szint, Promote Hero leírása		5 perc		11 perc
+8.	Képességek oldal képei			10 perc		25 perc
+9.	Képességek oldal leírása		15 perc		12 perc
+10.	Harcos képességek oldal képei		20 perc		15 perc
+11.	Harcos képességek oldal leírása		20 perc		10 perc
+12.	Varászló képességek oldal képei		20 perc		19 perc
+13.	Varázsló képességek oldal leírása	25 perc		20 perc
+14.	Íjász képességek oldal képei		20 perc		25 perc
+15.	Íjász képességek oldal leírása		40 perc		43 perc
+16.	Pályák oldal képei			35 perc		48 perc
+17.	Pályák oldal leírása			20 perc		25 perc
+18.	Pályák oldal lista			5 perc 		3 perc
+19.	Pályák oldal táblázat			10 perc		24 perc
+20. 	Képgaléria elkészítésa			1 óra		56 perc
+21.	Fõoldal elkészítésa			1 óra		2 óra 30 perc
+
+
+		
+Elkészítési idõ: 11,3 óra
