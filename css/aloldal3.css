@@ -64,6 +64,7 @@ li a:hover:not(.active) {
 	padding: 0px 5px 0px 5px;
 	margin-top:15px;
 	margin-bottom:0px;
+	font-weight:bold;
 }
 
 #datum{
@@ -71,6 +72,7 @@ li a:hover:not(.active) {
 	padding: 0px 5px 0px 5px;
 	margin-top:15px;
 	margin-bottom:0px;
+	font-weight:bold;
 }
 
 h1{

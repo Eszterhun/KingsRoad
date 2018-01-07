@@ -60,11 +60,13 @@ body{
 #nev{
 	float:right;
 	padding: 0px 5px 0px 5px;
+	font-weight:bold;
 }
 
 #datum{
 	float:left;
 	padding: 0px 5px 0px 5px;
+	font-weight:bold;
 }
 
 .footer{
@@ -100,7 +102,8 @@ body{
 
 #felirat2{
 	width:1030px;
-	font-size: 115%;
+	font-size: 135%;
+	font-weight:bold;
 }
 
 #kep3{
@@ -112,7 +115,8 @@ body{
 
 #felirat3{
 	width:580px;
-	font-size: 115%;
+	font-size: 135%;
+	font-weight:bold;
 }
 
 #kep4{
@@ -125,7 +129,8 @@ body{
 
 #felirat4{
 	width:500px;
-	font-size: 115%;
+	font-size: 135%;
+	font-weight:bold;
 }
 
 
@@ -138,7 +143,8 @@ body{
 
 #felirat5{
 	width:660px;
-	font-size: 115%;
+	font-size: 135%;
+	font-weight:bold;
 }
 
 #kep6{
@@ -150,6 +156,7 @@ body{
 
 #felirat6{
 	width:1190px;
-	font-size: 115%;
+	font-size: 135%;
+	font-weight:bold;
 }
 

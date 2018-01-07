@@ -64,12 +64,14 @@ li a:hover:not(.active) {
 	float:right;
 	padding: 0px 5px 0px 5px;
 	margin-top:15px;
+	font-weight:bold;
 }
 
 #datum{
 	float:left;
 	padding: 0px 5px 0px 5px;
 	margin-top:15px;
+	font-weight:bold;
 }
 
 #tartalom{
@@ -82,7 +84,7 @@ img{
     height: 70px;
     -webkit-transition: width 2s; 
     transition: width 2s;
-	margin-left: 350px;
+	margin-left: 460px;
 }
 
 img:hover {

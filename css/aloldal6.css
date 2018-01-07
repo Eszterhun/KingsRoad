@@ -79,11 +79,13 @@ body{
 #nev{
 	float:right;
 	padding: 0px 5px 0px 5px;
+	font-weight:bold;
 }
 
 #datum{
 	float:left;
 	padding: 0px 5px 0px 5px;
+	font-weight:bold;
 }
 
 h1{
@@ -111,7 +113,7 @@ table caption{
 	font-style: italic;
 	font-weight:bold;
 	padding-left: 5px;
-	font-size: 120%;
+	font-size: 130%;
 }
 
 table th{
